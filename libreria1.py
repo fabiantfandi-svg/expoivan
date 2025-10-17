@@ -22,5 +22,9 @@ print("Matriz transpuesta\n", transpuesta)
 
 
 multiplicacion = np.dot(matriz, transpuesta)
+<<<<<<< HEAD
 print("Multiplicación \n", multiplicacion)
 #fabian torres
+=======
+print("Multiplicación \n", multiplicacion)
+>>>>>>> a71f0d8445426a98330a9a4d498bd24f46c846db

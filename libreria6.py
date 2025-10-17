@@ -6,5 +6,9 @@ def operaciones_basicas():
     print("Raíz cuadrada de 16:", math.sqrt(numero))
     print("2 elevado a la 5:", math.pow(2, 5))
     print("Redondear hacia abajo (4.9):", math.floor(4.9))
+<<<<<<< HEAD
     print("Redondear hacia arriba (4.1):", math.ceil(4.1))
 #fabian torres
+=======
+    print("Redondear hacia arriba (4.1):", math.ceil(4.1))
+>>>>>>> a71f0d8445426a98330a9a4d498bd24f46c846db
