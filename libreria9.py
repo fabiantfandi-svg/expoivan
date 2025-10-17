@@ -11,3 +11,4 @@ imagen_desenfocada.show()
 
 # Guardar la imagen procesada
 imagen_desenfocada.save("paisaje_desenfocado.jpg")
+#fabian torres

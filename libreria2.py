@@ -9,3 +9,4 @@ print(random.choice(colores))
 
 numeros = [1, 2, 3, 4, 5]
 print(random.shuffle(numeros))
+#fabian torres

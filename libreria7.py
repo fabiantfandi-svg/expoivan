@@ -8,3 +8,4 @@ plt.title('ejemplo basico de matplotlib')
 plt.xlabel('x')
 plt.ylabel('y')
 plt.show()
+#fabian torres

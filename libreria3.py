@@ -13,3 +13,4 @@ media = x.mean()
 
 print("Promedio:")
 print(media.compute())
+#fabian torres

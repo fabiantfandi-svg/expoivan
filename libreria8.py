@@ -20,3 +20,4 @@ def leer_datos(nombre_archivo):
     ws = wb.active
     for fila in ws.iter_rows(values_only=True):
         print(fila)
+#fabian torres
